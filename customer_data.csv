@@ -1,0 +1,11 @@
+Customer ID,Age,Gender,Total Spending,Membership Status,Region
+101,25,Male,3200,None,South
+102,34,Female,8700,Silver,West
+103,29,Male,4500,None,North
+104,42,Female,12300,Gold,East
+105,38,Male,9800,Silver,West
+106,31,Female,15000,Gold,South
+107,27,Male,2200,None,East
+108,36,Female,6700,Silver,North
+109,45,Male,10400,Gold,West
+110,33,Female,4900,None,East
